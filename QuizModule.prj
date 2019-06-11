@@ -3,7 +3,7 @@
    <description></description>
    <name>QuizModule</name>
    <tag></tag>
-   <UUID>306865b7-e010-4bf4-a926-6f822ac3cec4</UUID>
+   <UUID>31e647eb-9e25-4e9d-85ac-7d6b8de2dc9b</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -24,5 +24,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

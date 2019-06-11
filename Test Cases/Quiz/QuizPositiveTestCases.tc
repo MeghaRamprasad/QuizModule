@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QuizPositiveTestCases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1809ee9-5bac-406c-916e-07fdfaf9d65c</testCaseGuid>
+   <variable>
+      <defaultValue>'The amount of light on a photograph is known as the:'</defaultValue>
+      <description></description>
+      <id>e85cf21c-6cbe-41a3-8158-2a0941306900</id>
+      <masked>false</masked>
+      <name>Question1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Which zoom is superior: optical or digital?'</defaultValue>
+      <description></description>
+      <id>6364afd3-dfd8-462a-8712-006b3266dbfc</id>
+      <masked>false</masked>
+      <name>Question2</name>
+   </variable>
+   <variable>
+      <defaultValue>'The amount of light passing through a lens is defined by the:'</defaultValue>
+      <description></description>
+      <id>faf7c1da-ef64-443b-a429-91edfb6ddc77</id>
+      <masked>false</masked>
+      <name>Question3</name>
+   </variable>
+   <variable>
+      <defaultValue>'Perfect exposure is a result of the right mixture of:'</defaultValue>
+      <description></description>
+      <id>881b9860-4796-42bc-947d-13bcb871c539</id>
+      <masked>false</masked>
+      <name>Question4</name>
+   </variable>
+   <variable>
+      <defaultValue>'What is the unit of measurement for light in photography:'</defaultValue>
+      <description></description>
+      <id>a7a211be-80fe-4578-ba62-cee1346a3492</id>
+      <masked>false</masked>
+      <name>Question5</name>
+   </variable>
+   <variable>
+      <defaultValue>'What is Aperture measured in?'</defaultValue>
+      <description></description>
+      <id>1d8740bf-4bcd-41be-a55e-26a1bc7275f7</id>
+      <masked>false</masked>
+      <name>Question6</name>
+   </variable>
+   <variable>
+      <defaultValue>'What is shutter speed measured in?'</defaultValue>
+      <description></description>
+      <id>8cfef6f4-cc63-4965-9f52-7d01dd1cae2f</id>
+      <masked>false</masked>
+      <name>Question7</name>
+   </variable>
+   <variable>
+      <defaultValue>'Resolution of an image describes:'</defaultValue>
+      <description></description>
+      <id>9b31203a-3b64-43f4-87b1-1863501cabe4</id>
+      <masked>false</masked>
+      <name>Question8</name>
+   </variable>
+   <variable>
+      <defaultValue>'If you increase the size of the Aperture to let in more light what effect will it have on the image?'</defaultValue>
+      <description></description>
+      <id>bbec114d-ec04-4b45-91e6-ae71468110d7</id>
+      <masked>false</masked>
+      <name>Question9</name>
+   </variable>
+   <variable>
+      <defaultValue>'What would a small aperture create?'</defaultValue>
+      <description></description>
+      <id>0f194749-b5e6-4f8e-9c4d-64623fc2d80a</id>
+      <masked>false</masked>
+      <name>Question10</name>
+   </variable>
+   <variable>
+      <defaultValue>'When in Aperture Priority, adjusting EXPOSURE COMPENSATION will alter:'</defaultValue>
+      <description></description>
+      <id>89368048-861b-44e9-9d3b-a3e68ac2f344</id>
+      <masked>false</masked>
+      <name>Question11</name>
+   </variable>
+   <variable>
+      <defaultValue>'Which is a larger aperture?'</defaultValue>
+      <description></description>
+      <id>57c67404-2db3-46c5-8d50-408b8c0d1eb6</id>
+      <masked>false</masked>
+      <name>Question12</name>
+   </variable>
+   <variable>
+      <defaultValue>'You are doing a product shoot using manual flash. Everything looks good exposure wise but you want more depth of field. You’re at f5.6 and want to go to f16. Assuming your camera is setup at ⅓ increments, how many “clicks” do you have to stop down on your camera and how many stops of power must you add to your flash?'</defaultValue>
+      <description></description>
+      <id>039c221e-5345-4b64-96ad-ff2dda004894</id>
+      <masked>false</masked>
+      <name>Question13</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ddc7b96-3bed-4fee-a8cf-ce8612d2ca6f</id>
+      <masked>false</masked>
+      <name>Checking</name>
+   </variable>
+</TestCaseEntity>
